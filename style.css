@@ -20,19 +20,13 @@ footer {
     padding-bottom: 10px;
 }
 
-.whitebox {
-    margin: 0 15px 10px 15px;
-    padding: 15px 0 15px 0;
-    background: #ebebeb;
-}
-
-#nav {
+nav {
     background: #ebebeb;
     padding: 10px 0 10px 0;
     margin: 15px 0 20px 0;
 }
 
-#left {
+section {
     float: left;
     background: #ebebeb;
     width: 495px;
@@ -40,14 +34,20 @@ footer {
     margin-bottom: 20px;
 }
 
-#right {
+aside {
     float: right;
     background: #ebebeb;
     width: 450px;
     padding-bottom: 215px;
 }
 
-#article {
+.whitebox {
+    margin: 0 15px 10px 15px;
+    padding: 15px 0 15px 0;
+    background: #ebebeb;
+}
+
+article {
     background: #777;
     padding: 2px 0 10px 0;
     margin: 0 10px 0 10px;
