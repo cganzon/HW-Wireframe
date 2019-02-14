@@ -13,12 +13,6 @@ header {
     padding: 8px 0 8px 0;
 }
 
-footer {
-    clear: both;
-    background: #ebebeb;
-    padding: 10px 0 10px 0;
-}
-
 nav {
     background: #ebebeb;
     padding: 10px 0 10px 0;
@@ -40,19 +34,25 @@ aside {
     padding-bottom: 215px;
 }
 
-.whitebox {
-    margin: 0 15px 10px 15px;
-    padding: 15px 0 15px 0;
-    background: #ebebeb;
-}
-
 article {
     background: #777;
     padding: 2px 0 10px 0;
     margin: 0 10px 0 10px;
 }
 
-#whiteText {
+footer {
+    clear: both;
+    background: #ebebeb;
+    padding: 10px 0 10px 0;
+}
+
+.whitebox {
+    margin: 0 15px 10px 15px;
+    padding: 15px 0 15px 0;
+    background: #ebebeb;
+}
+
+#whitetext {
     color: #ebebeb;
 }
 
